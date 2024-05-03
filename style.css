@@ -49,7 +49,7 @@ body {
       padding-bottom: 100px;
       margin-left:auto;
       margin-right:auto;
-    
+      
   }
   
 
@@ -73,7 +73,10 @@ body {
       font-family: Helvetica;
       font-size: 20px;
   }
+#telebot{
+  position:float;
   
+}
   #paragraph1 {
       margin-top:400px;
       color: white;
@@ -128,4 +131,38 @@ body {
 #linkedin{
   color:#049;
 }
+#lool{
+  width:60%;
+  height:50%;
+  position:relative;
+  padding-left:0px;
+  padding-top:30px;
   
+}
+#mew{
+  color:white;
+  padding-left:40%;
+  font-size:50px;
+  font-family:helvetica;
+}
+#meww{
+
+  color:white;
+  font-family:helvetica;
+  
+}
+#quote{
+  color:white;
+  padding-top:30px;
+  font-size:50px;
+  font-family:helvetica;
+  position:relative;
+  margin: 0 auto;
+}
+#h5{
+  color:white;
+  font-size:15px;
+  position:float;
+  font-family:helvetica;
+  
+}
